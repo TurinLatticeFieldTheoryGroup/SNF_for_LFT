@@ -5,7 +5,7 @@
 
 Simple implementation of the Stochastic Normalizing Flows used in <a href="https://link.springer.com/article/10.1007/JHEP07(2022)015">Stochastic normalizing flows as non-equilibrium transformations</a></li> 
 
-Arxiv preprint here: in <a href="https://arxiv.org/abs/2201.08862">https://arxiv.org/abs/2201.08862</a></li>
+Arxiv preprint here: <a href="https://arxiv.org/abs/2201.08862">https://arxiv.org/abs/2201.08862</a></li>
 
 
 If this code is helpful for your research, please cite us:
