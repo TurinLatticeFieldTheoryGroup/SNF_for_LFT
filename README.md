@@ -1,5 +1,5 @@
 # Stochastic Normalizing Flows for Lattice Field Theory
-[![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/eliacellini/SNF_for_LFT/blob/14aa8e412ce89602d611d902fb378c66ef85be11/SNF_for_LFT.ipynb) <a target="_blank" href="https://colab.research.google.com/github/eliacellini/SNF_for_LFT/blob/14aa8e412ce89602d611d902fb378c66ef85be11/SNF_for_LFT.ipynb">
+[![View filled on Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/TurinLatticeFieldTheoryGroup/SNF_for_LFT/blob/main/SNF_for_LFT.ipynb) <a target="_blank" href="https://colab.research.google.com/github/eliacellini/SNF_for_LFT/blob/14aa8e412ce89602d611d902fb378c66ef85be11/SNF_for_LFT.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>  
 
